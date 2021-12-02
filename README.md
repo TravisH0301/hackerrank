@@ -6,6 +6,7 @@ This repository contains answers to the Hackerrank challenges.
 - [Draw The Triangle 1](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Easy/Draw%20The%20Triangle%201.md): use of DECLARE and WHILE loop to draw triangle in a loop
 - [Draw The Triangle 2](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Easy/Draw%20The%20Triangle%202.md): use of DECLARE and WHILE loop to draw triangle in a loop in a reverse order
 - [Symmetric Pairs](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Symmetric%20Paris.md): use of SELF JOIN to find symmetric pairs
+- [The Report](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Easy/The%20Report.md): use of CTE and UNION (union with distinct rows & union all with duplicated rows) to create a student grade report
 
 ### Medium
 - [The PADS](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/The%20PADS.md): use of CONCAT to concatenate string values
