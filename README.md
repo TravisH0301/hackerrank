@@ -14,6 +14,7 @@ This repository contains answers to the Hackerrank challenges.
 - [Print Prime Numbers](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Print%20Prime%20Numbers.md): use of procedural clauses, WHILE loop & IF statement to determine prime numbers in a loop
 - [Symmetric Pairs](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Symmetric%20Paris.md): use of SELF JOIN to find symmetric pairs
 - [The Report](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Easy/The%20Report.md): use of CTE and UNION (union with distinct rows & union all with duplicated rows) to create a student grade report
+- [Challenges](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Challenges.md): use of CTE and UNION to organise information of hacker who created challenges
 
 
 ### Hard
