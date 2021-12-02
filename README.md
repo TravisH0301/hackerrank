@@ -10,4 +10,6 @@ This repository contains answers to the Hackerrank challenges.
 
 ### Hard
 - [Interviews](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Hard/Interviews.md): use of CTE to aggregate values before join
-- [15 Days of Learning SQL](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Hard/15%Days%of%Learning%SQL.md): use of CTE and ROW_NUMBER to aggregate and filter using row numbers
+- [15 Days of Learning SQL](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Hard/15%20Days%20of%20Learning%20SQL.md): use of CTE and ROW_NUMBER to aggregate and filter using row numbers
+
+
