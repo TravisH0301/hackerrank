@@ -8,6 +8,7 @@ This repository contains answers to the attempted Hackerrank challenges.
 
 
 ### Medium
+- [Weather Observation Station 19](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Weather%20Observation%20Station%2019.md): use of mathematical operations, SQRT, SQUARE to determine an Euclidean distance between 2 points
 - [Weather Observation Station 20](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Weather%20Observation%20Station%2020.md): use of MAX to determine median latitude 
 - [The PADS](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/The%20PADS.md): use of CONCAT to concatenate string values
 - [Occupations](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Occupations.md): use of PIVOT to pivot table
