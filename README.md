@@ -20,6 +20,7 @@ This repository contains answers to the attempted Hackerrank challenges.
 - [Top Competitors](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Top%20Competitors.md): use of JOIN to assemble challenge leaderboard
 - [SQL Project Planning](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/SQL%20Project%20Planning.md): use of CTE, LEAD and LAG to determine project start and end dates from the project task date history
 - [Content Leaderboard](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Content%20Leaderboard.md): use of CTE and aggregations to determine top scoring hackers
+- [Ollivander's Inventory](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Ollivander's%20Inventory.md): use of CTE and RANK to rank the best magical wands
 
 ### Hard
 - [Interviews](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Hard/Interviews.md): use of CTE to aggregate values before join
