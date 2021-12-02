@@ -2,6 +2,9 @@
 This repository contains answers to the Hackerrank challenges.
 
 ## SQL
+### Easy
+- [Draw The Triangle 1](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Easy/Draw%20The%20Triangle%201.md): use of DECLARE and WHILE loop to draw triangle in a loop
+
 ### Medium
 - [The PADS](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/The%20PADS.md): use of CONCAT to concatenate string values
 - [Occupations](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Occupations.md): use of PIVOT to pivot table
