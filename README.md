@@ -1,5 +1,5 @@
 # Hackerrank
-This repository contains answers to the Hackerrank challenges.
+This repository contains answers to the attempted Hackerrank challenges.
 
 ## SQL
 ### Easy
