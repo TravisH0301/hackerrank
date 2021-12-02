@@ -25,7 +25,7 @@
         join functions f2 on (f1.x = f2.y and f1.y = f2.x)
     group by f1.x, f1.y -- group by ensures only a single symmetric pair is shown
     having 
-        (f1.x = f1.y and count(f1.x) > 1 -- when x = y, make sure they are from different rows by ensuring the same x,y values exists on the other rows
+        (f1.x = f1.y and count(f1.x) > 1) -- when x = y, make sure they are from different rows by ensuring the same x,y values exists on the other rows
         or f1.x < f1.y -- ensure x < y (the case for x = y is already taken care with the previous condition)
     order by f1.x
     
