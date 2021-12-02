@@ -18,7 +18,8 @@ This repository contains answers to the Hackerrank challenges.
 - [Challenges](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Challenges.md): use of CTE and UNION to organise information of hacker who created challenges
 - [Placements](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Placements.md): use of JOIN to compare student salaries
 - [Top Competitors](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Top%20Competitors.md): use of JOIN to assemble challenge leaderboard
-- [SQL Project Planning](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/SQL%20Project%20Planning.md): use of CTE, LEAD, LAG to determine project start and end dates from the project task date history
+- [SQL Project Planning](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/SQL%20Project%20Planning.md): use of CTE, LEAD and LAG to determine project start and end dates from the project task date history
+- [Content Leaderboard](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Content%20Leaderboard.md): use of CTE and aggregations to determine top scoring hackers
 
 ### Hard
 - [Interviews](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Hard/Interviews.md): use of CTE to aggregate values before join
