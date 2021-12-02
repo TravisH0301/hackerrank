@@ -15,7 +15,7 @@ This repository contains answers to the Hackerrank challenges.
 - [Symmetric Pairs](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Symmetric%20Paris.md): use of SELF JOIN to find symmetric pairs
 - [The Report](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Easy/The%20Report.md): use of CTE and UNION (union with distinct rows & union all with duplicated rows) to create a student grade report
 - [Challenges](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Challenges.md): use of CTE and UNION to organise information of hacker who created challenges
-
+- [Placements](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Medium/Placements.md): use of JOIN to compare student salaries
 
 ### Hard
 - [Interviews](https://github.com/TravisH0301/hackerrank/blob/main/SQL/Hard/Interviews.md): use of CTE to aggregate values before join
